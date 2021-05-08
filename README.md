@@ -1,3 +1,6 @@
 # Github-finder
 Author - Ved Gupta
-<h4>Description - </h4> You can Type any GitHub username and see profile associated with it.
+# Description 
+You can Type any GitHub username and see profile associated with it.
+#Speciality
+This application is made of pure JavaScript. No framework or library is used for development.
