@@ -1,5 +1,9 @@
 const github = new Github;
 const ui = new UI;
+const authorName = document.querySelector('#author');
+authorName.addEventListener('click', e => {
+    displayProfile('vedgupta789');
+});
 const searchText = document.querySelector('#usertext');
 searchText.addEventListener('keyup', e => {
     const userText = e.target.value;
